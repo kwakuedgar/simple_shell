@@ -1,7 +1,7 @@
 #include "edshell.h"
 
 /**
-*edExit - Function from shell
+*edExit - Function from st exits shell
 *@ed_arg_s: arguments
 *Return: 0
 */
